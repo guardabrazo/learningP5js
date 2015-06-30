@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "title": "01 - Hello World!",
+    "description": "Make your first sketch, right away!"
+  },
+  {
+    "id": 1,
+    "title": "02 - Coordinates",
+    "description": "Lear how your canvas work"
+  },
+  {
+    "id": 2,
+    "title": "03 - Color",
+    "description": "This is the third sketch"
+  },
+  {
+    "id": 3,
+    "title": "04 - Variables",
+    "description": "This is the fourth sketch"
+  },
+  {
+    "id": 4,
+    "title": "05 - Conditionals",
+    "description": "This is the fifth sketch"
+  },
+  {
+    "id": 5,
+    "title": "06 - Loops",
+    "description": "This is the sixth sketch"
+  },
+  {
+    "id": 6,
+    "title": "07 - Animation",
+    "description": "This is the seventh sketch"
+  }
+]
