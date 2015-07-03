@@ -1,0 +1,47 @@
+.title {
+  font-family: "Arvo", serif;
+  font-size: 70px;
+  color: #FFFFFF;
+  text-align : center;
+}
+
+.subtitle {
+  font-family: "PT Sans", sans-serif;
+  font-size: 30px;
+  color: #FFFFFF;
+  text-align : center;
+  margin-top: 0px;
+}
+
+.example-title {
+  font-family: "Arvo", serif;
+  color: #E00D4B;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top : 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.example-description {
+  font-family: "Arvo", serif;
+  color: #E00D4B;
+}
+
+@media screen and (max-width: 1000px) {
+    .example-title {
+        font-size:20px;
+    }
+}
+ 
+@media screen and (max-width: 568px) {
+    .example-title {
+        font-size:15px;
+    }
+}
+
+
+.navbar-default {
+    background-color: #FFFFFF;
+    border-radius: 0px;
+}
